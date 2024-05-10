@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Yigit\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Yigit\\.nuget\\packages"
+    ]
+  }
+}
